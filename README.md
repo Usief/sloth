@@ -54,7 +54,7 @@ sloth支持修改configure文件自定义标注类别。首先使用自定义配
 
 这里介绍三种标记方式，点，矩形，多边形。  
   
-![image.png](./assets/3_labels.png)
+![image2.png](./assets/3_labels.png)
 
 ## 官方文档
 https://sloth.readthedocs.io/en/latest/index.html
