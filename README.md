@@ -4,7 +4,11 @@ sloth
 这是一份简要版中文说明关于如何使用Sloth进行图像标注。 
 
 ## 运行环境
+#### Python版本
 python3.6及以上，因为支持中文
+#### 操作系统
+* Windows 7及以上
+* Ubuntu Linux 16.0.4
 
 ## Sloth安装
 
