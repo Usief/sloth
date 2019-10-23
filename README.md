@@ -36,9 +36,9 @@ sloth的入口在sloth/bin/sloth
 ### 基础使用方法 (以windows为例)
 首先打开sloth
     
-    pythonsloth/bin/sloth
-
-![image.png](attachment:image.png)
+    python sloth/bin/sloth
+    
+![image.png](./assets/screen.png)
 
 多边形（Polygon）类型在框出对象之后，双击表示确定。
 
@@ -47,9 +47,7 @@ sloth的入口在sloth/bin/sloth
 #### 自定义标注类别（修改配置文件）
 sloth支持修改configure文件自定义标注类别。首先使用自定义配置文件
 
-    python sloth/bin/sloth --config [myconfig.py]
-    
-![image.png](./assets/screen.png)
+    python sloth/bin/sloth --config [myconfig.py]   
 
 通过自定义config.py文件来定义不同的类别和标注方式，和类别相关的部分是LABELS。只包含一个类别的LABELS定义如下图
 
